@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/driver/static/css/main.9214f0e2.css",
+    "main.js": "/driver/static/js/main.c44daba3.js",
+    "static/media/drive.png": "/driver/static/media/drive.6bd20e182296ea68fb9b.png",
+    "index.html": "/driver/index.html",
+    "main.9214f0e2.css.map": "/driver/static/css/main.9214f0e2.css.map",
+    "main.c44daba3.js.map": "/driver/static/js/main.c44daba3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9214f0e2.css",
+    "static/js/main.c44daba3.js"
+  ]
+}
